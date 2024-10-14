@@ -4,12 +4,12 @@ We will release the model checkpoints, datasets and the code within next few wee
 ![Illustration of multi-agent collaborative framework](./main_v2.png)
 
 ## Updates
-- **[14 October, 2024]:** We release our [1.3B model checkpoints](https://huggingface.co/beccabai/1.3B-multi-agent-collab-checkpoints). 
+- **[14 October, 2024]:** We release our [1.3B model checkpoints](https://huggingface.co/beccabai/1.3B-multi-agent-collab-checkpoints) and [BERT Topic Classifier](https://huggingface.co/beccabai/bert_topic_model). 
 
 ## Release plan
 TODOs:
 - [x] Model Checkpoints 
-- [ ] BERT Topic Model Checkpoint 
+- [x] BERT Topic Model Checkpoint 
 - [ ] Labeled Slimpajama-670B datasets 
 - [ ] Code for baselines and methods 
 ......
