@@ -6,7 +6,7 @@
 ## Release plan
 TODOs:
 - [x] Model Checkpoints 
-- [] BERT Topic Model Checkpoint
-- [] Labeled Slimpajama-670B datasets
-- [] Code for baselines and methods
+- [] BERT Topic Model Checkpoint 
+- [] Labeled Slimpajama-670B datasets 
+- [] Code for baselines and methods 
 ......
