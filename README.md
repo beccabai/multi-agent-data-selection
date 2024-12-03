@@ -12,6 +12,6 @@ TODOs:
 - [x] Model Checkpoints 
 - [x] BERT Topic Model Checkpoint 
 - [x] Labeled Slimpajama-670B datasets 
-- [ ] Code for baselines and methods
+- [ ] Code for baselines and methods - will be released after acceptance
 - [ ] Summarize data efficient pretraining methods 
 ......
